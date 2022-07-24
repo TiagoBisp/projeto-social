@@ -13,7 +13,7 @@ body {background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
       background-attachment:fixed;}
         
 main {height:100vh;
-      position:relative;}   
+      position:relative;} 
       
 section#telefone {height:627px;
                   width:311px;
